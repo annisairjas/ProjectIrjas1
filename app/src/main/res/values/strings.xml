@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">e-waroenk</string>
+    <string name="data_title">Data Barang</string>
+    <string name="button_add">Tambah</string>
+    <string name="button_save">Simpan</string>
+    <string name="product_name">Nama Barang</string>
+    <string name="stock">Stok</string>
+    <string name="list">List</string>
+    <string name="price">Harga</string>
+    <string name="edit">Edit</string>
+    <string name="input">Input Data Barang</string>
+    <string name="edititem">Edit Data Barang</string>
+    <string name="scanqr">Scan</string>
+    <string name="pay">Pembelian</string>
+    <string name="report">Report</string>
+</resources>
