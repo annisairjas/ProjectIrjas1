@@ -62,7 +62,7 @@ class EditActivity : AppCompatActivity() {
 
         val actionbar = supportActionBar
         //set actionbar title
-        actionbar!!.title = "Edit Barang"
+        actionbar!!.title = "Edit Data Barang"
         //set back button
         actionbar.setDisplayHomeAsUpEnabled(true)
         actionbar.setDisplayHomeAsUpEnabled(true)
