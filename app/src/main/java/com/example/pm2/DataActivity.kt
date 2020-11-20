@@ -41,7 +41,7 @@ class DataActivity : AppCompatActivity(), OnItemClickListener {
 
         val actionbar = supportActionBar
         //set actionbar title
-        actionbar!!.title = "Data Barang"
+        actionbar!!.title = "Data Barang di warung"
         //set back button
         actionbar.setDisplayHomeAsUpEnabled(true)
         actionbar.setDisplayHomeAsUpEnabled(true)
